@@ -1,6 +1,6 @@
 **⚡ Energy Risk Lab**
 
-> **[View Interactive Dashboard (Live Demo)](https://pvbrandao.github.io/energy-risk-lab/Demo_Risk_Calculation.html)**
+> **[View Interactive Dashboard (Live Demo)](https://pvbrandao.github.io/energy-risk-lab)**
 
 This project demonstrates a quantitative framework for managing energy portfolios in the Brazilian Market (Free Energy Market - ACL). It includes implementations of key risk metrics widely used in the industry, developed in Python.
 
