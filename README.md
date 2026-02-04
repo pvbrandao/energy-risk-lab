@@ -1,5 +1,7 @@
 Energy Trading Risk Management (ETRM) Toolkit
 
+> **[Clique aqui para ver o Dashboard Interativo (Live Demo)](https://pvbrandao.github.io/energy-risk-lab/Demo_Risk_Calculation.html)**
+
 About this Project: This repository demonstrates a quantitative framework for managing energy portfolios in the Brazilian Market (Free Energy Market - ACL). It includes implementations of key risk metrics widely used in the industry, developed in Python.
 
 Key Features:
